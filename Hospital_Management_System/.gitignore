@@ -1,0 +1,12 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+# Visual Studio files
+.vs/
+*.user
+*.suo
+# NuGet packages
+packages/
+*.nupkg
+# MSTest results
+TestResults/
